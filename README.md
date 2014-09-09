@@ -46,4 +46,4 @@ The orbital velocity can be calculated by dividing that horizontal distance
 by the time it must have taken to cover that distance.
 
 A more detailed walk-through can be found on my blog post:
-[http://www.enochko.com/blog/newtons-cannonball-and-orbital-velocity]
+[http://www.enochko.com/blog/newtons-cannonball-and-orbital-velocity](http://www.enochko.com/blog/newtons-cannonball-and-orbital-velocity)
